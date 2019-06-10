@@ -1,0 +1,29 @@
+button{
+  margin-right: 30px;
+  margin-bottom: 30px
+}
+div{
+  margin: 30px
+}
+.navbar{
+  justify-content: space-between
+}
+mat-sidenav-container{
+   height: 100%
+}
+mat-sidenav , mat-sidenav-content{
+   padding:16px;
+}
+mat-sidenav{
+  background-color: lightcoral;
+  width:200px;
+}
+mat-grid-tile{
+  background-color: lightblue
+}
+h1{
+  color:lightcoral
+}
+table {
+  width: 100%;
+}
